@@ -1,3 +1,6 @@
+![1](https://github.com/user-attachments/assets/710dccb1-6c87-4fa4-a3be-588625c0a92b)
+
+
 # Activity-25-SOLID-PRINCIPLES-IN-Angular
 
 ## Understanding SOLID Principles and Their Application in Angular
